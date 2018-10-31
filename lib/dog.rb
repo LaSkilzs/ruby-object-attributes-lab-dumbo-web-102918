@@ -1,5 +1,5 @@
 class Dog
-  dog name=(name)
-    @name = name
+ name=(dog_name)
+    @name = dog_name
   end
 end
